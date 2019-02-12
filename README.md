@@ -1,1 +1,1 @@
-# Plantilla para comenzar a trabajar con sass, browserSync y php
+# Plantilla para comenzar a trabajar con gulp, sass, browserSync y php
