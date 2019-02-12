@@ -1,0 +1,15 @@
+{
+  "name": "started-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/moisesmiss/started-template.git",
+  "author": "moisesmiss <moisesgamiss@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "^1.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-wait": "^0.0.2"
+  }
+}
